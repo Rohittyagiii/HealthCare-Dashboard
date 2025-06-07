@@ -1,0 +1,42 @@
+.maindiv{
+    height: 100vh;
+}
+
+.card-dentist{
+    background-color: rgb(56 52 169);
+      border-radius: 10px;
+}
+
+.card-appointment{
+      background-color: rgb(194, 197, 207);
+      border-radius: 10px;
+}
+
+.card-health{
+     background-color: rgb(221 226 249);
+      border-radius: 10px;
+}
+
+.card-opho{
+     background-color: rgb(221 226 249);
+      border-radius: 10px;
+}
+
+.heading-6{
+    color: rgb(15 9 65) ;
+}
+
+.october{
+   color: rgb(15 9 65) 
+}
+
+.date{
+    font-size: 20px;
+}
+
+.calender-box{
+    height: 100vh;
+   background-color: rgb(246 250 255);
+   border-top-right-radius: 40px;
+   border-bottom-right-radius: 40px;
+}

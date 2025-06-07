@@ -1,0 +1,37 @@
+ .sidebarbox {
+   height: 100vh;
+   background-color: rgb(246 250 255);
+   border-top-left-radius: 40px;
+   border-bottom-left-radius: 40px;
+ }
+
+ .health {
+   color: rgb(135 242 248);
+ }
+
+ .care {
+   color: rgb(15 9 65);
+ }
+
+
+ button {
+   background-color: transparent;
+
+   color: rgb(186 194 198);
+   
+   border: none;
+ }
+
+ a{
+  text-decoration: none;
+ }
+
+ button.active {
+   color: rgb(15 9 65);
+ }
+
+ .setting {
+   position: fixed;
+   /* top: 70px; */
+   bottom: 1px;
+ }
